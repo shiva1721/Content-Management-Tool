@@ -1,0 +1,137 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("bgfull.jpg");
+}
+
+h1 {
+    text-align: center;
+    height:45px;
+    color:white;    
+}
+
+.card {
+    border: 1px solid grey;
+    width: 60%; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:80px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+    background-image: url("background.jpeg");
+    /* Replace with the path to yourimage */
+    background-size: cover;
+    background-position: center;
+}
+
+.card2 {
+    border: 1px solid grey;
+    width: 90%; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:50px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+    background-image: url("background.jpeg");
+    /* Replace with the path to yourimage */
+    background-size: cover;
+    background-position: center;
+}
+
+.input-section {
+    margin-bottom: 20px;
+    width: 80%;
+}
+
+.center-img-vid{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button-section {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.button-section button {
+    padding: 10px 20px;
+    background-color: rgb(79, 79, 155);
+    color: white;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.preview {
+    width: 15cm;
+    height: 15cm;
+}
+
+.div-section {
+    height: 54px;
+    width:80%;
+    border-radius: 8px;
+    margin-left: 10%;
+}
+
+.video-preview {
+    width: 15cm;
+    height: auto;
+}
+
+.data-container {
+    max-height: 300px;
+    /* Adjust the height as needed */
+}
+
+.card-header {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 6px;
+}
+
+.card-title {
+    margin: 0;
+    font-size: 24px;
+    text-align: center;
+}
+
+.card-body {
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.input-section label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.input-section input[type="text"],
+.input-section input[type="file"] {
+    width: 100%;
+    padding: 5px;
+}
+
+
+
+
+
+
